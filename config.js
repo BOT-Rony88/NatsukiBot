@@ -11,7 +11,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 
 // [ Agrega el número que será Bot y los que serán propietarios. ]
 global.owner = [
-["50250101139", 'Wilmer ofc', true],
+["50370536621", 'Wilmer ofc', true],
 ["50258115623"], 
 ["51967997782"]
 ]
@@ -19,7 +19,7 @@ global.owner = [
 global.mods = []
 global.prems = []
 
-global.tagusario = ['50250101139'];
+global.tagusario = ['+50370536621'];
 
 global.obtenerQrWeb = 0; //1 o 0
 global.keepAliveRender = 0; // 1 o 0
@@ -71,17 +71,17 @@ xcoders : 'https://api-xcoders.site'
 },
 
 global.APIKeys = { 
-'https://api.xteam.xyz': `${keysxteam}`,
-'https://api.lolhuman.xyz': `${lolkeysapi}`,
-'https://api.neoxr.my.id': `${keysneoxr}`,        
-'https://violetics.pw': 'beta',
-'https://api.zahwazein.xyz': `${keysxxx}`,
-'https://api.fgmods.xyz': 'DRLg5kY7', 
-'https://api-fgmods.ddns.net': 'fg-dylux',
-'https://api.botcahx.biz.id': 'Admin',
-'https://api.ibeng.tech/docs': 'tamvan',
-'https://api.itsrose.site': 'Rs-Zeltoria',
-'https://api-xcoders.site': 'Frieren'
+'https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6.xyz': `${keysxteam}`,
+'https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6': `${lolkeysapi}`,
+'https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6': `${keysneoxr}`,        
+'https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6': 'beta',
+'https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6': `${keysxxx}`,
+'https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6': 'DRLg5kY7', 
+'https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6': 'fg-dylux',
+'https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6': 'Admin',
+'https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6': 'tamvan',
+'https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6': 'Rs-Zeltoria',
+'https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6'
 }
 
 //------------------------------------------------
@@ -152,22 +152,22 @@ global.asistencia = 'https://wa.me/message/C45GXBEFTPONE1' //Contacto
 global.bot = 'wa.me/50250101139'
 
 global.nna = 'https://www.atom.bio/Wilsmac/' // Cuentas
-global.nn2 = 'https://t.me/' // 
-global.nna2 = 'https://chat.whatsapp.com/EAxOACyzjB6JhkRvQvw4zl' //Anime y social 
-global.nn = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' // FantasyBot-MD 
-global.nnn = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' // FantasyBot-MD 
-global.nnnt = 'https://whatsapp.com/channel/0029VaCUlPX0LKZAlP10pC43' // canal 
-global.nnntt = 'https://whatsapp.com/channel/0029VaCUlPX0LKZAlP10pC43' // canal 
-global.nnnttt = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' // FantasyBot-MD 
-global.nnnttt1 = 'https://chat.whatsapp.com/EAxOACyzjB6JhkRvQvw4zl' // Anime y social 
-global.nnnttt2 = 'https://whatsapp.com/channel/0029VaCUlPX0LKZAlP10pC43' // canal
-global.nnnttt3 = 'https://whatsapp.com/channel/0029VaCUlPX0LKZAlP10pC43' // canal
-global.nnnttt4 = 'https://whatsapp.com/channel/0029VaCUlPX0LKZAlP10pC43' // canal 
-global.nnnttt5 = 'https://chat.whatsapp.com/EAxOACyzjB6JhkRvQvw4zl' // anime y social 
-global.nnnttt6 = 'https://chat.whatsapp.com/CPASQk25rExCIEdlkrOfBz' // FantasyBot-MD 
-global.channel1 = 'https://whatsapp.com/channel/0029VaCUlPX0LKZAlP10pC43'
-global.channel2 = 'https://whatsapp.com/channel/0029VaCUlPX0LKZAlP10pC43'
-global.channel3 = 'https://t.me/'
+global.nna ='https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6' 
+global.nna2 = 'https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6' //Anime y social 
+global.nn = 'https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6' // FantasyBot-MD 
+global.nnn = 'https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6' // FantasyBot-MD 
+global.nnnt = 'https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6' // canal 
+global.nnntt = 'https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6' // canal 
+global.nnnttt = 'https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6' // FantasyBot-MD 
+global.nnnttt1 = 'https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6' // Anime y social 
+global.nnnttt2 = 'https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6' // canal
+global.nnnttt3 = 'https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6' // canal
+global.nnnttt4 = 'https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6' // canal 
+gllbal.nnnttt5 = 'https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6' // anime y social 
+global.nnnttt6 = 'https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6' // FantasyBot-MD 
+global.channel1 = 'https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6'
+global.channel2 = 'https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6'
+global.channel3 = 'https://chat.whatsapp.com/HvAiRIS2cyL2KSsFw1HhN6'
 //------------------------------------------------
 
 
